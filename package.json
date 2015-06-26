@@ -2,7 +2,7 @@
   "name": "random-hex-color",
   "description": "Generate a random hex color.",
   "author": "John Otander",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "test": "test"
