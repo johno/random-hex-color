@@ -8,7 +8,8 @@ describe('random-hex-color', function() {
 
   it('should return a hex color', function() {
     for(var i = 0; i < 10; i++) {
-      assert.ok(hexColorRegex().test(randomHexColor()))
+      var hexColor = randomHexColor()
+      assert.ok(hexColorRegex().test(hexColor))
     }
   })
 })
