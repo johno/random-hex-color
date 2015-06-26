@@ -13,7 +13,8 @@ npm install --save random-hex-color
 ```javascript
 var randomHexColor = require('random-hex-color')
 
-randomHexColor()  // => #123abc
+randomHexColor()  // => '#123abc'
+randomHexColor()  // => '#abc123'
 ```
 
 ## Acknowledgements
