@@ -1,4 +1,4 @@
-# random-hex-color [![Build Status](https://secure.travis-ci.org/johnotander/random-hex-color.png?branch=master)](https://travis-ci.org/johnotander/random-hex-color)
+# random-hex-color [![Build Status](https://secure.travis-ci.org/johnotander/random-hex-color.svg?branch=master)](https://travis-ci.org/johnotander/random-hex-color)
 
 Generate a random hex color.
 
