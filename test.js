@@ -2,7 +2,7 @@
 
 import test from 'ava'
 import hexColorRegex from 'hex-color-regex'
-import randomHexColor from './'
+import randomHexColor from './prod/index'
 
 test('should return a hex color', t => {
   t.plan(10)
